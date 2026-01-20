@@ -6,7 +6,7 @@ The Aadhaar ecosystem has transitioned from mass enrollment to a complex **Maint
 
 ## The Three Pillars of Analysis
 
-**Temporal Volatility**: Identifying recurring “skyscraper” surges where daily volume breaches 1.3×–1.5× the mid-week median.
+**Temporal Volatility**: Identifying recurring “skyscraper” surges where daily volume breaches 2.06×–4.68× the mid-week median.
 
 **Spatial Stress**: Mapping **absolute saturation** in districts where workload per service neighborhood materially exceeds the national baseline.
 

@@ -33,11 +33,12 @@ Applied Pareto analysis to identify the vital few states driving throughput and 
 
 ## Repository Structure
 
-**Notebooks 1–3**: Cleaning and standardization.
-**Notebooks 4–6**: EDA and Pareto discovery.
-**Notebook 7**: Feature engineering (Sq, load factors, normalization).
-**Notebook 8**: Statistical validation and profiling.
-**Notebook 9**: Spatiotemporal visual synthesis.
+- **Notebooks 1–3**: Cleaning and standardization.
+- **Notebooks 4–6**: EDA and Pareto discovery.
+- **Notebook 7**: Feature engineering (Sq, load factors, normalization).
+- **Notebook 8**: Statistical validation and profiling.
+- **Notebook 9**: Spatiotemporal visual synthesis.
+- **Analysis Report**: [UIDAI-Data-Hackathon-2026-Analysis-Report](UIDAI-Data-Hackathon-2026-Analysis-Report.pdf)
 
 ## Key Findings
 

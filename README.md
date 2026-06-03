@@ -1,6 +1,13 @@
-# Aadhaar Operational Audit: Spatiotemporal Volatility & Demographic Displacement
+<div align="center">
 
+# Aadhaar Operational Audit: Spatiotemporal Volatility & Demographic Displacement
 ## Project Overview
+
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+
+</div>
+
+---
 
 The Aadhaar ecosystem has transitioned from mass enrollment to a complex **Maintenance Lifecycle**. This project implements a multi-pillar operational audit to identify **Spatiotemporal Volatility**—service demand that is neither uniform over time nor geography—creating localized friction points that aggregate reporting often fails to capture.
 
